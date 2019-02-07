@@ -1,5 +1,13 @@
 # Yandex-Kassa-PHP-Light-Class
 
+### Яндекс Касса обновила API / Yandex Kassa API has been updated
+
+> Attention! This version is too old, do not use it. Read: https://kassa.yandex.ru/docs/checkout-api/
+
+> Внимание! Данная версия слишком старая, не используйте. Читайте: https://kassa.yandex.ru/docs/checkout-api/
+
+
+
 Сначала кидаем пользователей на страницу с переадресацией на Яндекс.Кассу
 
 Здесь в Settings можно указать различные параметры (подробнее смотреть в классе)
